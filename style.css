@@ -1,0 +1,13 @@
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.NOTE
+{
+    font-size: 10px;
+    color: black;
+
+}
